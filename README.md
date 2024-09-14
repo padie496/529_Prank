@@ -1,5 +1,5 @@
 
-> Download [here](https://github.com/padie496/529_Prank/blob/2dedf2ba01f7a603517cbbffc72d65edb0ee52f2/529.hex)
+> Download the "529.hex" file [here](https://github.com/padie496/529_Prank/blob/2dedf2ba01f7a603517cbbffc72d65edb0ee52f2/529.hex)
 
 
 529 is a funny prank you can use on your friend's micro:bit to fake a 529 error!
