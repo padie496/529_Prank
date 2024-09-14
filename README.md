@@ -1,5 +1,5 @@
 
-> Open this page at [https://padie496.github.io/529_prank/](https://padie496.github.io/529_prank/)
+> Download [here](https://padie496.github.io/529_prank/)
 
 
 529 is a funny prank you can use on your friend's micro:bit to fake a 529 error!
